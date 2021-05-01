@@ -1,7 +1,7 @@
 # exercise-tracker
 
 An Exercise Tracker where users can create logs of their exercises and can also edit & delete them. 
-Used **ReactJS with Bootstrap** for the front-end and **Node.js with express.js** for the backend along with **MongoDB (with mongoose)** for database. 
+Used **ReactJS with React Router & Bootstrap for styling** for the front-end and **Node.js with express.js** for the backend along with **MongoDB (with mongoose)** for database. 
 
 **Functions:** 
 1. *Users can view all exercise logs.*
